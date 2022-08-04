@@ -1,0 +1,33 @@
+body {
+	margin: 100px 40px 10px 70px;
+}
+
+.dropmenu{	
+	list-style-type: none;
+	background-color: white;
+	padding-left: 0px;
+
+}
+
+.dropmenu li{
+	background: #118023;
+	height: 26px;
+	border-right: solid 5px #118023;
+	float: left;
+	display: block;
+}
+
+.dropmenu li a {
+	color: white;
+	display: block;
+	text-decoration:none;
+	font:arial, verdana, sans-serif;
+	text-shadow: 5px 7px #AEAD96;
+}
+.dropmenu li:hover{
+	background-color:red;
+	color: white;
+
+	
+}
+
